@@ -8,8 +8,8 @@
 
 <h3>🛠 Stack</h3>
 
-- 💻 Tech: &nbsp; Python | Java | HTML | CSS 
-- 🔧 Tools: &nbsp; Selenium Web Driver | TestNG | REST-assured | PyTest | Allure 
+- 💻 Tech: &nbsp; <b>Java</b> | Python | HTML | CSS 
+- 🔧 Tools: &nbsp; <b>Selenium Web Driver</b> | TestNG | <b>REST-assured</b> | Allure | Selenoid | PyTest 
 - 🎓 Learning: &nbsp; CI/CD | Jenkins | Cucumber | GitLab
 
 <br/>
