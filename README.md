@@ -8,9 +8,9 @@
 
 <h3>🛠 Stack</h3>
 
-- 💻 Tech: &nbsp; Python | HTML | CSS 
-- 🔧 Tools: &nbsp; Selenium Web Driver | PyTest | Allure | Git | Markdown 
-- 🎓 Learning: &nbsp; SQL | Jenkins | Selenium GRID
+- 💻 Tech: &nbsp; Python | Java | HTML | CSS 
+- 🔧 Tools: &nbsp; Selenium Web Driver | TestNG | REST-assured | PyTest | Allure 
+- 🎓 Learning: &nbsp; CI/CD | Jenkins | Cucumber | GitLab
 
 <br/>
 
