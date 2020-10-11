@@ -9,7 +9,7 @@
 <h3>🛠 Stack</h3>
 
 - 💻 Tech: &nbsp; <b>Java</b> | Python | HTML | CSS | SQL 
-- 🔧 Tools: &nbsp; <b>Selenium Web Driver</b> | TestNG | <b>REST-assured</b> | Allure | Selenoid | PyTest 
+- 🔧 Tools: &nbsp; <b>Selenium WebDriver</b> | TestNG | <b>REST-assured</b> | Allure | Selenoid | PyTest 
 - 🎓 Learning: &nbsp; CI/CD | Jenkins | Docker | GitLab
 
 <br/>
