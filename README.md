@@ -8,7 +8,7 @@
 
 <h3>🛠 Stack</h3>
 
-- 💻 Tech: &nbsp; <b>Java</b> | Python | HTML | CSS | SQL 
+- 💻 Tech: &nbsp; <b>Java</b> | Python | REST | HTML | CSS | SQL 
 - 🔧 Tools: &nbsp; Selenium WebDriver | TestNG | Junit 5 | <b>Selenide</b> | <b>REST-assured</b> | JDBI | <b>Allure</b> | Selenoid | TeamCity | Kibana | Docker
 - :hammer: Responsibilities: &nbsp; Component Testing | <b>APIs</b> Testing | <b>UI end2end Testing</b> | Load Testing | CI/CD | Test Reports
 <br/>
