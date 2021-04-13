@@ -11,7 +11,7 @@
 - 💻 Tech: &nbsp; <b>Java</b> | Python | HTML | CSS | SQL 
 - 🔧 Tools: &nbsp; Selenium WebDriver | TestNG | Junit 5 | <b>Selenide</b> | <b>REST-assured</b> | JDBI | <b>Allure</b> | Selenoid | TeamCity | Kibana | Docker
 
-- 🎓 Learning: &nbsp; CI/CD processes
+- :hammer: Responsibilities: &nbsp; component testing | APIs Testing | UI end2end Testing | Load Testing| CI/CD | Test Reports
 <br/>
 
 ⭐️ From [rybalkin-an](https://github.com/rybalkin-an)
