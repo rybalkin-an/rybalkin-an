@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I'm from Samara, Russia and exploring new technologies for QA in software development
 - 💼 &nbsp; I'm working as an :coffee: Software Developer Engineer in Test at [SimbirSoft.com](https://www.simbirsoft.com/)
-- 🌱 &nbsp; I'm learning more about test deployment
+- 🌱 &nbsp; I'm learning more about deployment processes
 
 <h3>🛠 Stack</h3>
 
