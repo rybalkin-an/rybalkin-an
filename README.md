@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; I'm from Samara, 🇷🇺:. Located in Dortmund :DE:. I'm ISTQB® [Certified](https://www.gasq.org/en/registration/expert/38981e13-c39d-48a8-9e54-9758d479366c.html) Tester
+- 🤔 &nbsp; I'm from Samara, 🇷🇺:. Located in Dortmund 🇩🇪. I'm ISTQB® [Certified](https://www.gasq.org/en/registration/expert/38981e13-c39d-48a8-9e54-9758d479366c.html) Tester
 - 💼 &nbsp; I'm working as an :coffee: Agiler Software Tester at [Rhenus Freight Logistic GmbH](https://www.rhenus.group/)
 - 🌱 &nbsp; I'm learning about development processes
 
