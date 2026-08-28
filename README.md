@@ -2,12 +2,12 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-* 🧪   I'm a <b>QA Engineer</b> with 8+ years of experience across fintech, logistics, and industrial IoT
-* 🎯   I'm ISTQB® <a href="https://www.gasq.org/en/registration/expert/38981e13-c39d-48a8-9e54-9758d479366c.html">Certified Tester</a>
-* 🌍   Based in Düsseldorf, Germany
-* 💼   Currently working as a QA Engineer at <a href="https://www.cybus.io/">Cybus</a>, testing an industrial IoT and data-integration platform
-* ⚙️   Experienced in <b>test automation, API & UI testing, distributed systems, messaging infrastructure, Kubernetes, and CI/CD</b>
-* 🚀   Passionate about improving software quality through automation, quality gates, resilience testing, and reliable CI/CD pipelines
+* 🧪 I'm a <b>QA Engineer</b> with 8+ years of experience across fintech, logistics, and industrial IoT
+* 🎯 I'm ISTQB® <a href="https://www.gasq.org/en/registration/expert/38981e13-c39d-48a8-9e54-9758d479366c.html">Certified Tester</a>
+* 🌍 Based in Düsseldorf, Germany
+* 💼 Currently working as a QA Engineer at <a href="https://www.cybus.io/">Cybus</a>, testing an industrial IoT and data-integration platform
+* ⚙️ Experienced in <b>test automation, API & UI testing, distributed systems, messaging infrastructure, Kubernetes, and CI/CD</b>
+* 🚀 Passionate about improving software quality through automation, quality gates, resilience testing, and reliable CI/CD pipelines
 
 <h3>🛠 Tech Stack</h3>
 
