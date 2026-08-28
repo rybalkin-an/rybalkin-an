@@ -11,12 +11,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-* 💻 Programming & Scripting:   <b>Java</b> | <b>TypeScript</b> | Bash | SQL | Ansible
-* 🧪 Test Automation:   <b>Playwright</b> | <b>REST-assured</b> | <b>Selenide</b> | TestNG | JUnit | Cucumber | Testcontainers
-* 🔌 APIs & Messaging:   REST | <b>MQTT</b> | Apache Kafka | NATS | OPC UA | Industrial Protocols
-* ☸️ Infrastructure:   <b>Docker</b> | <b>Kubernetes</b> | Helm | AWS | Chaos Mesh | Toxiproxy
-* 🔧 CI/CD & Tools:   GitHub Actions | GitLab CI | Jenkins | Jira | Confluence | Postman | Swagger
-* 📊 Observability:   Grafana | Kibana | InfluxDB
+* 💻 Programming & Scripting: <b>Java</b> | <b>TypeScript</b> | Bash | SQL | Ansible
+* 🧪 Test Automation: <b>Playwright</b> | <b>REST-assured</b> | <b>Selenide</b> | TestNG | JUnit | Cucumber | Testcontainers
+* 🔌 APIs & Messaging: REST | <b>MQTT</b> | Apache Kafka | NATS | OPC UA | Industrial Protocols
+* ☸️ Infrastructure: <b>Docker</b> | <b>Kubernetes</b> | Helm | AWS | Chaos Mesh | Toxiproxy
+* 🔧 CI/CD & Tools: GitHub Actions | GitLab CI | Jenkins | Jira | Confluence | Postman | Swagger
+* 📊 Observability: Grafana | Kibana | InfluxDB
 
 <h3>🔬 QA & Testing</h3>
 
