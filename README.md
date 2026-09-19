@@ -11,11 +11,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-* 💻 Programming & Scripting: <b>Java</b> | <b>TypeScript</b> | <b>Python</b> | Bash | SQL | YAML | JSONata | Maven | Gradle | Git
+* 💻 Programming & Scripting: <b>Java</b> | <b>TypeScript</b> | <b>Python</b> | Bash | SQL | YAML | JSONata | Maven | Gradle 
 * 🧪 Test Automation: <b>Playwright</b> | <b>Selenium</b> | <b>Selenide</b> | <b>REST-assured</b> | TestNG | JUnit | Cucumber | Testcontainers
 * 🔌 APIs & Messaging: REST | HTTP | <b>MQTT</b> | Apache Kafka | NATS JetStream | VerneMQ | OAuth 2.0 | JWT
 * ☸️ Infrastructure: <b>Docker</b> | Docker Compose | <b>Kubernetes</b> | OpenShift | Helm | Ansible | AWS | EC2 | EKS | S3 | Google Cloud | Azure
-* 🔄 CI/CD & Tools: GitHub Actions | GitLab CI/CD | Jenkins | GitOps | Jira | Confluence | Postman | Swagger | DBeaver | Camunda
+* 🔄 CI/CD & Tools: GitHub Actions | Git | GitLab CI/CD | Jenkins | GitOps | Jira | Confluence | Postman | Swagger | DBeaver | Camunda
 * 📊 Databases: PostgreSQL | MariaDB | MSSQL | MySQL | Oracle DB | InfluxDB
 * 📈 Observability & Resilience: Grafana | Prometheus | Loki | Toxiproxy | Chaos Mesh
 * 🔐 Security & Identity: OAuth 2.0 | JWT | MFA | SSO | RBAC | LDAP | Active Directory | OpenLDAP | mTLS | TLS | Microsoft Entra ID
